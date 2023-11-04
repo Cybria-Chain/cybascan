@@ -1,0 +1,14 @@
+pairs:
+  cj: CJ Bryan; cj
+  dr: Doc Ritezel; doc
+  mo: Matt Olenick; matto
+  db: Derek Barnes; dgb
+  rdwb: Desmond Bowe; des
+  kvn: Avenbreaks; kvn
+
+email:
+  prefix: pair
+  domain: kaavn.netlify.app
+  no_solo_prefix: true
+
+global: true
